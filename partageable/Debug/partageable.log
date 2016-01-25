@@ -1,0 +1,27 @@
+﻿La génération a démarré 22/01/2016 17:01:16.
+     1>Projet "C:\Users\Bastien\Documents\GitHub\partageable2\partageable\partageable\partageable.vcxproj" sur le nœud 2 (build cible(s)).
+     1>InitializeBuildStatus:
+         Création de "Debug\partageable.unsuccessfulbuild", car "AlwaysCreate" a été spécifié.
+       ClCompile:
+         Toutes les sorties sont à jour.
+       ManifestResourceCompile:
+         Toutes les sorties sont à jour.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Bastien\Documents\GitHub\partageable2\partageable\Debug\partageable.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\partageable.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Bastien\Documents\GitHub\partageable2\partageable\Debug\partageable.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Bastien\Documents\GitHub\partageable2\partageable\Debug\partageable.lib" /MACHINE:X86 Debug\partageable.exe.embed.manifest.res
+         Debug\main.obj
+         C:\Users\Bastien\Documents\GitHub\partageable2\partageable\Debug\Composant1.lib
+         C:\Users\Bastien\Documents\GitHub\partageable2\partageable\Debug\Composant2.lib
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\partageable.exe.embed.manifest" /manifest Debug\partageable.exe.intermediate.manifest
+         Toutes les sorties sont à jour.
+       LinkEmbedManifest:
+         Toutes les sorties sont à jour.
+         partageable.vcxproj -> C:\Users\Bastien\Documents\GitHub\partageable2\partageable\Debug\partageable.exe
+       FinalizeBuildStatus:
+         Suppression du fichier "Debug\partageable.unsuccessfulbuild".
+         Mise à jour de l'horodatage "Debug\partageable.lastbuildstate".
+     1>Génération du projet "C:\Users\Bastien\Documents\GitHub\partageable2\partageable\partageable\partageable.vcxproj" terminée (build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:01.20
